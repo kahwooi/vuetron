@@ -18,6 +18,7 @@ npm run dev
 # View app using browser at http://localhost:8080, automatically updates the browser on changes.
 
 # Run as electron desktop app
+webpack
 npm start
 ```
 
